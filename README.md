@@ -68,6 +68,7 @@ Na segunda tela, o título "Tela 2" é exibido com um botão que permite retorna
 
 
 ![Captura de tela 2024-11-05 011742](https://github.com/user-attachments/assets/717f0c7e-8705-483d-9754-29971b5137cd)
+
 👨‍💻 Desenvolvedores
 Cav-lua - Desenvolvedor - GitHub
 
